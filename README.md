@@ -1,2 +1,2 @@
 # Factor-Analysis
-Calculate main factors in financial market
+Track main factors in financial market
